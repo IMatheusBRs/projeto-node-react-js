@@ -1,0 +1,2 @@
+colocar dados salvos na caixa
+usar a lupa para alterar o estado na api
